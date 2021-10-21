@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         btn3 = findViewById(R.id.btn3);
         btn4 = findViewById(R.id.btn4);
 
+
         DisplayTap = findViewById(R.id.DisplayTap);
 
     }
