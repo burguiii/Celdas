@@ -65,15 +65,16 @@
                     android:layout_height="119dp"
                     android:layout_marginRight="10dp"
                     android:backgroundTint="@color/Gray"
-                    app:cornerRadius="10dp"
-                    />
+                    android:onClick="click_btn1"
+
+                    app:cornerRadius="10dp" />
 
                 <Button
                     android:id="@+id/btn2"
                     android:layout_width="140dp"
                     android:layout_height="119dp"
                     android:backgroundTint="@color/Gray"
-                    android:shadowRadius="20"
+                    android:onClick="click_btn2"
                     app:cornerRadius="10dp" />
             </TableRow>
 
@@ -87,6 +88,7 @@
                     android:layout_height="119dp"
                     android:layout_marginRight="10dp"
                     android:backgroundTint="@color/Gray"
+                    android:onClick="click_btn3"
                     app:cornerRadius="10dp" />
 
                 <Button
@@ -94,6 +96,7 @@
                     android:layout_width="140dp"
                     android:layout_height="119dp"
                     android:backgroundTint="@color/Gray"
+                    android:onClick="click_btn4"
                     app:cornerRadius="10dp" />
             </TableRow>
 
