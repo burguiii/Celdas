@@ -9,5 +9,6 @@
     <color name="Gray">#615F5B</color>
     <color name="Orange">#E1871B</color>
     <color name="Azul_fondo">#56C49C</color>
+    <color name="Blanco_celdas">#F7F6F3</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
